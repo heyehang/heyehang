@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ### 我的 Github
-![](https://github-readme-stats.vercel.app/api?username=heyehang&count_private=true&show_icons=true&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=heyehang&count_private=true&show_icons=true&theme=radical)
 
 ### 联系我
 邮箱：www.heyehang@qq.com
